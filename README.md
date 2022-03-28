@@ -1,2 +1,2 @@
-## AngularJs_Projects
+## Py_Projects
 This repository contains beginner level projects.
